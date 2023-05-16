@@ -8,6 +8,9 @@
 - 阿里云视频直播后台配置url鉴权教程：https://help.aliyun.com/document_detail/85018.htm
 
 ## 使用
+```shell
+go get github.com/zealerFT/aliyun-live-go-sdk@latest
+```
 ``` shell
 	live := NewServer(
 		AppNameOption("live"), // 直播app名

@@ -1,4 +1,4 @@
-module aliyun-live-go-sdk
+module github.com/zealerFT/aliyun-live-go-sdk
 
 go 1.20
 
